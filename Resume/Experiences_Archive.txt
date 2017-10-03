@@ -1,0 +1,19 @@
+Software Developer Intern		        April 2016 – September 2016
+Intel, Hillsboro, Oregon                        
+•	Designed, documented, and prototyped a refactored version of the in-house automation tool to increase usability, portability, maintainability, and scalability.
+•	Maintained and updated an in-house automation software tool used by the CAD Librarians.
+•	Job shadowed CAD Librarians and participated in their job-related tasks.
+
+
+Computer Science Teaching Assistant		January 2016 – April 2016
+EECS Department, Oregon State University
+•	Engaged in continual collaboration with course instructor and co-workers to brainstorm for improvements to learning objectives and information delivery.
+•	Facilitated in-class lab assignments, and graded the student’s homework assignments through interactive demonstrations.
+•	Mentored students in the assigned curricula leading to improved academic work. 
+
+Research Assistant	                    June 2014 – January 2016
+Cognition and Action in Real & Virtual Environments Lab, Oregon State University
+•	Analyzed virtual reality lab tests for two different psychology studies.
+•	Developed, implemented, and tested object visualizations for test participants and usability features for research assistants in two different psychology study tests.
+•	Became familiarized with Vizard Virtual Reality Software Toolkit and virtual reality hardware.
+
