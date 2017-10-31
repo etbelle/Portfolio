@@ -8,10 +8,11 @@ Summmary:
 This script is designed to be a template file for future VR spacial relation tests.
 When ran, it starts by prompting the user for measurements of their height.
 Once the user is measured, it generates 3 boxes for each hand, and a box for each foot.
-Each hand box is located at the max length from the users shoulder to each respective axis X, Y, and Z,
+Each hand box is located at the max length from the users shoulder to each respective axis X, Y, and Z, relating to each of 
+the three hand boxes.
 The feet boxes are located slightly off the ground and forward from the users starting foot possition.
 the premise of the future tests are to time the user from when they leave one box and enter a differing, or the same, box.
-The ques to let the user know when to leave a starting position could be auditory, visual or tactile.
+The the differing sensorial ques to let the user know when to leave a starting position could be auditory, visual or tactile.
 The pattern of boxes for the user to enter could be static or random deppending on the test.
 One example of a test could be Simon Says using a virtual environment.
 """
