@@ -1,10 +1,10 @@
-Oregon State University	September 2013 – June 2018
-Degree in Progress: Bachelors of Science in Computer Science with an Applied Option in HCI
-GPA: 3.29
+Oregon State University	September 2013 – August 2018
+Degree in Progress: Bachelors of Science in Computer Science with an Applied Option in Human Factors Engineering
+GPA: 3.31
 
 Software Engineering:
-Related Classes: Introduction to the Analysis of Algorithms, Data Structures, Information Visualization, Opperating Systemes I & II, Software Engineering I & II, Usability Engineering, Cognitive Psychology 
+Related Classes: Introduction to the Analysis of Algorithms, Data Structures, Information Visualization, Opperating Systemes I & II, Software Engineering I & II, Usability Engineering, Cognitive Psychology, Introduction to Networking 
 
 UX:
-Related Classes: Introduction to Usability Engineering, Inclusive Design With Personas, Social Psychology, Cognitive Psychology, Brain and Behavior.
+Related Classes: Introduction to Usability Engineering, Inclusive Design With Personas, Social Psychology, Cognitive Psychology, Brain and Behavior, Behavior Modification.
 

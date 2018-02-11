@@ -1,3 +1,3 @@
-Design and Communication: Persona Design, U.I. Mockup Design, Technical Writing, Public Speaking.
+Design and Communication: Persona Design, Low Fidelity UI Prototyping, Technical Writing, Public Speaking.
 
 Programming: Python, C/C++, Unix, Unity, Vizard, VBA:Excel, LaTeX.
