@@ -1,0 +1,192 @@
+﻿                     ______________________________
+                    /_____/_____/_____/_____/_____/
+                   ____  ___    ___   __________
+                  / __ \/   |  /   | / ___/ ___/
+                 / / / / /| | / /| | \__ \\__ \ 
+                / /_/ / ___ |/ ___ |___/ /__/ / 
+               /_____/_/  |_/_/  |_/____/____/  
+              ______________________________
+             /_____/_____/_____/_____/_____/
+           _____       ______                         
+          / ___/____  / __/ /__      ______ _________ 
+          \__ \/ __ \/ /_/ __/ | /| / / __ `/ ___/ _ \
+         ___/ / /_/ / __/ /_ | |/ |/ / /_/ / /  /  __/
+        /____/\____/_/  \__/ |__/|__/\__,_/_/   \___/
+       ______          __  _                _____       _ __     
+      /_  __/__  _____/ /_(_)___  ____ _   / ___/__  __(_) /____ 
+       / / / _ \/ ___/ __/ / __ \/ __ `/   \__ \/ / / / / __/ _ \
+      / / /  __(__  ) /_/ / / / / /_/ /   ___/ / /_/ / / /_/  __/
+     /_/  \___/____/\__/_/_/ /_/\__, /   /____/\__,_/_/\__/\___/ 
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /____/_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+(_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_)
+  ____       _     __     ______           __    _____     _    __   
+ / __ \__ __(_)___/ /__  / __/ /____ _____/ /_  / ___/_ __(_)__/ /__ 
+/ /_/ / // / / __/  '_/ _\ \/ __/ _ `/ __/ __/ / (_ / // / / _  / -_)
+\___\_\_,_/_/\__/_/\_\ /___/\__/\_,_/_/  \__/  \___/\_,_/_/\_,_/\__/ 
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+(_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_)
+
+This is a Quick Start Guide for the DAASS automated testing suite.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Table of Contents:
+
+Use the find function to locate the section of interest, based on the lettering
+to the right.
+
+
+Quick Start Guide --------------- //A
+
+    Introduction -------------------- //A0
+
+    Requirements -------------------- //A1
+    
+    Setup --------------------------- //A2
+    
+    Running the Testing Suite ------- //A3
+
+    Running Individual Tests -------- //A4
+
+
+
+     ///////////////////////////////////////////////////////////////////////////
+    //
+   //    QUICK START GUIDE
+  //
+ ///////////////////////////////////////////////////////////////////////////////
+//A
+
+
+   ////////////////////////
+  //    Introduction    //
+ ////////////////////////
+//A0
+
+The Quick Start Guide section is a brief instructional guide on how to use the 
+DAASS Software Testing Suite. In 
+this guide, we will go go over how to run the entire testing suite along with 
+how to run individual tests.
+
+Any references to folders will have ANSA_Automation or 
+ANSA_Automation_test_files as the top level folder. Since your goal is to test 
+either the entire DAASS System or a component of DAASS then it's assumed you 
+have access to the ANSA_Automation and ANSA_Automation_test_files github repos 
+and will be placing the repo clones wherever is most logical for yourself. It is
+also assumed that you have BETA CAE ANSA installed, DAASS pre-loaded and have 
+access to your .BETA folder.
+
+Lastly, if you are unfamiliar with the DAASS system, it is not recommended that 
+you attempt the testing process.
+
+
+   ////////////////////////
+  //    Requirements    //
+ ////////////////////////
+//A1
+
+The following are required in order to run any of the testing software:
+
+    - BETA CAE ANSA ver. 17.0.2 or later
+
+    - ANSA_Automation Github repo circa July, 27, 2017
+
+    - ANSA_Automation_test_files Github repo circa August, 2, 2017
+
+For any questions on how to install or prepare the listed requirements, please 
+contact ... [REDACTED for privacy].
+
+   /////////////////
+  //    Setup    //
+ /////////////////
+//A2
+
+In order to run the testing suite, you first need to associate the files we are 
+using to help test the DAASS system to a location in which ANSA knows where to 
+grab them from. 
+
+1 - First move the ./ANSA_Automation/ANSA_TRANSL.py script to your 
+  ./.BETA/ANSA/version_*.*.*/ folder. Overwrite the file if an ANSA_Transl.py 
+  file already exists.
+
+2 - Second, open the ./.BETA/ANSA/version_*.*.*/ANSA_TRANSL.py and locate both
+  PATH_TEST_RESOURCE variables. If you are using, or plan to use the testing 
+  suite with a windows machine, update the PATH_TEST_RESOURCE variable with your
+  ./ANSA_Automation_test_files folder path under the if conditional. If you are 
+  using, or plan to use the testing suite with a Linux machine, update the 
+  PATH_TEST_RESOURCE variable with your ./ANSA_Automation_test_files folder path
+  under the else conditional. 
+
+3 - Third, start ANSA and proceed to the main editor screen. Once there, click the
+  scripts drop down menu (Green button that looks like a piece of paper, located
+  in the middle of the top button ribbon) and select Reload All from the drop 
+  down menu.
+
+4 - Lastly, once ANSA has refreshed its environment state, exit ANSA.
+
+   /////////////////////////////////////
+  //    Running the Testing Suite    //
+ /////////////////////////////////////
+//A3
+
+To run the testing suite:
+
+1 - You start by opening an ANSA session and clicking the scripts drop down menu 
+  (Green botton that looks like a piece of paper, located in the middle of the 
+  top button ribbon) and selecting the Script Editor.
+
+2 - Once in the script editor window, select the Open button (Yellow folder icon 
+  located on the left of the top button ribbon). Once in the folder selection 
+  screen, locate the unittest_loader.py script by navagating to 
+  ./ANSA_Automation/daass/test_suite/test_master/unittest_loader.py. Finish the 
+  the file selection by clicking on the script in the right window of the folder
+  selection screen, and then pressing the open button.
+
+3 - Now that you have the script loaded in the ANSA session, press the Run button
+  (The blue downward facing arrow, located in the middle of the top button 
+  ribbon) to start the testing suite.
+
+4a - Once the suite has been started, you will be prompted to select a file. select
+  a file that is located within the folder ./ANSA_Automation/daass/test_suite. 
+  Once selected, press open.
+
+4b - (optional) If you don't wish to run the entire testing suite you can select
+  a file in a subdirectory within ./ANSA_Automation/daass/test_suite 
+  directory. Once selected, the testing suite will run all tests in the selected
+  file's folder and all of that folder's child folders. For example, if 
+  ./ANSA_Automation/daass/test_suite/pre/__init__.py was selected, all tests 
+  within the folders /pre, /pre/mesh, and /pre/utility would be ran.
+
+5 - Finally, the output of the testing suite is located in the bottom text panel
+  of the script editor window. The testing suite will output each error that 
+  that arose within the window, followed by the number of unit test successes 
+  and the number of unit test failures.
+
+
+   ///////////////////////////////////
+  //    Running Individual Tests   // 
+ ///////////////////////////////////
+//A4
+  
+To run individual testing scripts that correspond to DAASS scripts:
+
+1 - You start by opening an ANSA session and clicking the scripts drop down menu 
+  (Green button that looks like a piece of paper, located in the middle of the 
+  top button ribbon) and selecting the Script Editor.
+
+2 - Once in the script editor window, select the Open button (Yellow folder icon 
+  located on the left of the top button ribbon). Once in the folder selection 
+  screen, navagate to the testing script in which you would like to run within the
+  ./ANSA_Automation/daass/test_suite directory structure. The /test_suite 
+  directory structure is organized exactly like the DAASS directory structure 
+  for ease of locating corresponding test files.
+
+3 - Now that you have the script loaded in the ANSA session, press the Run button
+  (The blue downward facing arrow, located in the middle of the top button 
+  ribbon) to start the testing suite.
+
+4 - Finally, the output of the testing suite is located in the bottom text panel
+  of the script editor window. The testing suite will output each error that 
+  that arose within the window, followed by the number of unit test successes 
+  and the number of unit test failures.
+
