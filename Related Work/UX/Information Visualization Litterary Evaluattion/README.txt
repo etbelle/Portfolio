@@ -11,7 +11,7 @@ of the graphs provided by the proposed program, we weren't convinced that the gr
 usable to the audience specified by Wang, even after they were supposedly made easier to view. 
 
 To create our written report we completed the following.
-- Became more familiar with nodal networks and weighted graphs.
+- Became familiar with nodal networks and weighted graphs.
 - Created ambiguous graphs using Java Script and applied the proposed algorithmic graphing solutions
   outlined by Wang.
 - Presented the proposed unambiguous graphs to a variety of potential users who all had scientific 
