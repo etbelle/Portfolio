@@ -21,7 +21,7 @@ bullet-points on the project:
 - Weekly online meetings took place with all three teams to discuss scope, progress, future plans 
   and roadblocks.
 - Three different concepts were prototyped using the Unity development platform and programmed with 
-   C#.
+  the language C#.
    - Two of the concepts were based on different lengths of a meditation audio clip.
    - The third concept was based on the idea of flow, attempting to direct a user to do a continuous
      series of simple actions in order to keep them engaged with the experience.
