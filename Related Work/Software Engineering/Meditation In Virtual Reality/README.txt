@@ -35,7 +35,7 @@ Stakeholders
 Intel Team:
    Mike Premi - Project Sponsor
    Marisa Powers - Project Lead
-   Lindsey Benjamin - Meditation Exper
+   Lindsey Benjamin - Meditation Expert
 
 UW Graduate Capstone Team:
    Ricki Mudd - Team Lead
