@@ -1,0 +1,79 @@
+Name: Erik Belle
+Email: belle.erik.t@gmail.com
+Social: linkedin.com/in/erik-belle
+
+
+Work Experience:
+
+CDW, through Apex Systems
+Professional Services Project Manager
+September 2021 - June 2022
+• Managed over 60 professional services projects with project budgets ranging from $2500 to $260,000.
+• Balanced 15 to 27 different projects at any given time.
+• Facilitated a wide range of projects, which includes but is not limited to Wireless Site Surveys and wireless deployments, Active Directory Updates and Data Migrations, and a server room remodel and installation.
+• Re-aligned and successfully completed 5 senior level projects after an unplanned reduction in senior staff.
+• Established a business case for automated inventory reporting to reduce an estimated 6 hours of Excel spreadsheet inventory management per week.
+
+NIKE, through TEKsystems
+Retail IT Production Analyst & Project Coordinator
+April 2020 - June 2021
+• Established a Jira work planning standard within Nike’s Global Retail Support organization, improving OKR related value drop visibility.
+• Arranged, scheduled, and facilitated Nike IT leadership pre-planning discussions for updating Nike Korea’s Retail IT infrastructure.
+• Overhauled and updated over 500 IT help desk troubleshooting and informational guides as part of an initiative to clean up older data and reduce tech debt.
+
+PLUS QA
+Accessibility QA Analyst
+Sept 2019 - April 2020
+• Performed end-to-end manual testing for accessibility flaws in client’s software by adhering to Plus QA and WCAG testing standards.
+• Provided multi-platform accessibility testing expertise for various client’s software, using technologies such as Android App, iOS App, Mobile-Web, and Windows and Mac Desktop-Web testing.
+• Created and maintained automated testing scripts for common web-based test cases using Robot Framework and Selenium web automation framework.
+
+HEWLETT-PACKARD, through BeyondSoft Consulting
+UX Testing Strategist
+June 2018 - April 2019
+• Designed and proposed a user experience test case management tool, integrated with machine learning and analytics, which HP’s QxE team approved for development.
+• Updated the existing user testing method to greatly reduce bias as a confounding variable from HP’s QxE team’s user testing processes.
+• Created an alternative user testing solution that promoted the user experience testers to more naturally test Hewlett-Packard’s Home and Lifestyle products.
+
+
+School:
+
+Oregon state University
+Bachelors in Computer Science
+Minor in Psychology
+Graduated September 2018
+
+
+Skills:
+
+• SAFe 5 PM/PO Certified
+• Agile
+• Behavior Driven Development
+• Persona Design
+• Jira
+• Test Rails
+• Confluence
+• ServiceNow
+• Microsoft: Visio, Excel, Office, Outlook
+• Project Acceptance
+• Project Clossure
+• Budget Reporting
+• Project Coordination
+
+
+Keywords:
+
+• Professional Services
+• Kanban
+• Scrum
+• Automation
+• Unix
+• Visual Basic (VBA):Excel
+• Web Content Accessibility Guidelines (WCAG)
+• Selenium Web Testing
+• Project Management (PM)
+• Product Owner (PO)
+• Knowledge Management
+• Software Engineering
+• Quality Assurance (QA)
+• User Experience (UX)
