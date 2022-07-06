@@ -1,3 +1,3 @@
 This project showcases a partly complete Wireless Site Survey. It follows a simplified version of the waterfall process akin to what you might see from the Project Management Institute (PMI).
 
-In these folders you will find documents that I have created to showcase what is needed at each phase of a project. The state of this fictional project is that the engineer, Sammy, has completed her first day on site conducting her wireless site survey. As such, you will see the project files filled out to reflect the work in progess.
+In these folders you will find documents that I have created to show what is needed at each phase of a project. The state of this fictional project is that the engineer, Sammy, has completed her first day on site conducting her wireless site survey. As such, you will see the project files filled out to reflect the work in progess.
