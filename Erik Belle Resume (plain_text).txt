@@ -1,10 +1,14 @@
-Name: Erik Belle
-Email: belle.erik.t@gmail.com
-Social: linkedin.com/in/erik-belle
+Name: 
+Erik Belle
+
+Email: 
+belle.erik.t@gmail.com
+
+Social Media: 
+linkedin.com/in/erik-belle
 
 
 Work Experience:
-
 CDW, through Apex Systems
 Professional Services Project Manager
 September 2021 - June 2022
@@ -37,7 +41,6 @@ June 2018 - April 2019
 
 
 School:
-
 Oregon state University
 Bachelors in Computer Science
 Minor in Psychology
@@ -45,24 +48,25 @@ Graduated September 2018
 
 
 Skills:
-
 • SAFe 5 PM/PO Certified
-• Agile
-• Behavior Driven Development
-• Persona Design
+• Project Acceptance
+• Project Clossure
+• Budget Reporting
+• Project Coordination
+• Waterfall
+• Agile 
+• Behavior Driven Development 
+• Persona Design 
+• Customer Journey Mapping
 • Jira
 • Test Rails
 • Confluence
 • ServiceNow
 • Microsoft: Visio, Excel, Office, Outlook
-• Project Acceptance
-• Project Clossure
-• Budget Reporting
-• Project Coordination
+• Programming: Python, C, VBA:Excel
 
 
 Keywords:
-
 • Professional Services
 • Kanban
 • Scrum
